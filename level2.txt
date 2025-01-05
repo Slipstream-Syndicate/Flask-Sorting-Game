@@ -1,0 +1,13 @@
+4 3
+FF
+AA
+EE
+3F1
+FF
+AA
+EE
+3F2
+EE
+FF
+AA
+3F3

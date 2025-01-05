@@ -1,0 +1,21 @@
+8 5
+BB
+FF
+DD
+3F1
+BB
+DD
+EE
+3F2
+AA
+EE
+AA
+3F3
+FF
+BB
+EE
+3F4
+FF
+AA
+DD
+3F6
